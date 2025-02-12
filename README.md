@@ -1,7 +1,7 @@
 # InventoryTracker
 
 
-Backend application that stores iventory items with id, name, quantity, and price into H2 database.
+Backend application that stores inventory items with id, name, quantity, and price into H2 database.
 
 Key Features:
   - Spring Boot Backend – Manages inventory records with a controller layer.
